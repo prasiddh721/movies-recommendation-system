@@ -38,7 +38,7 @@ and fetches posters \& trailers using the TMDB API.
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/YOUR\_USERNAME/movies-recommendation-system.git
+&nbsp;  https://github.com/prasiddh721/movies-recommendation-system.git
 
 
 
